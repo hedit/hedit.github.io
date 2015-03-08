@@ -1,2 +1,2 @@
-# hedit.github.io
-see http://github.com/hedit/hedit
+# Handling Editor website
+See http://github.com/hedit/hedit
